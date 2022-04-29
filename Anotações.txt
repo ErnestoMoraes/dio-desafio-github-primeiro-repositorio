@@ -1,0 +1,15 @@
+Passos para criar um Repositório no GitHub:
+
+1 - criar o Repositório no GitHub
+2 - clonar o Repositório
+3 - Opicional: Fazer alguma adicção de conteúdo
+4 - Adicionar os conteudos modificados
+5 - Comentar sobre as modificação
+6 - Subir pro Repositório
+
+Comando Exenciais:
+git clone ...link repositório.
+git pull
+git add
+git commit -m " Comentário "
+git push
